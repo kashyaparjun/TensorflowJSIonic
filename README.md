@@ -13,6 +13,5 @@ improve soon.
 </p>
 
 <p> tf.image.resizeBilinear is used to reduce the
-image size of the image to (64,64,3) which shoul-
-d be the input size for the model build.
+image size of the image to (64,64,3) which should be the input size for the model build.
 </p>
